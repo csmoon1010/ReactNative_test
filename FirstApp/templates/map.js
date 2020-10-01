@@ -7,3 +7,11 @@ import {
   Text,
   StatusBar,
 } from 'react-native';
+
+const App = () => {
+    return (
+        <View>
+            <Text>it's master</Text>
+        </View>
+    );
+  };
