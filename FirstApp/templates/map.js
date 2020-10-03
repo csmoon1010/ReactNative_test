@@ -11,7 +11,7 @@ import {
 const App = () => {
     return (
         <View>
-            <Text>it's master</Text>
+            <Text>it's hjmoon</Text>
         </View>
     );
   };
